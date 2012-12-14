@@ -1,0 +1,26 @@
+Contents of /Users/smartkit/Documents/RareDrill/RareDrill_Prefix.pch
+4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2377.00)
+arm-apple-darwin10
+-x
+objective-c
+-arch
+armv7
+-fmessage-length=0
+-pipe
+-std=c99
+-fpascal-strings
+-O0
+-DDEBUG
+-DCOCOS2D_DEBUG=1
+-DCD_DEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+-gdwarf-2
+-fvisibility=hidden
+-mthumb
+-miphoneos-version-min=3.0
+-iquote
+-iquote
+-I/Users/smartkit/Documents/RareDrill/Build/Products/Debug-iphoneos/include
+-F/Users/smartkit/Documents/RareDrill/Build/Products/Debug-iphoneos
+SDK_PRODUCT_BUILD_VERSION=9A334

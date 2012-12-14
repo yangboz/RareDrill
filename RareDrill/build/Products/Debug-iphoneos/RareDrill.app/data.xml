@@ -1,0 +1,28 @@
+<root>
+	<subjects>
+		<subject>
+			<title>Which letter of the alphabet does not appear here?</title>
+			<image>subject01.jpg</image>
+			<selections>A,B,C,D</selections>
+			<result>0</result>
+		</subject>
+		<subject>
+			<title>What's time is this?</title>
+			<image>subject02.jpg</image>
+			<selections>7:02,2:37,11:12,3:39</selections>
+			<result>1</result>
+		</subject>
+		<subject>
+			<title>What's the total?</title>
+			<image>subject03.jpg</image>
+			<selections>1,2,3,6</selections>
+			<result>2</result>
+		</subject>
+		<subject>
+			<title>How many eyes there?</title>
+			<image>subject04.jpg</image>
+			<selections>3,4,5,6</selections>
+			<result>3</result>
+		</subject>
+	</subjects>
+</root>
